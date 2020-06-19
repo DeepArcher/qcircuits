@@ -33,7 +33,14 @@ Tutorials & Modules
 Examples
 ========
 
-* :ref:`BellStates<BellStates_page>`
+* :ref:`Bell States<BellStates_page>`
+* :ref:`Deutsch's Algorithm<DeutschsAlgorithm_page>`
+* :ref:`Deutch-Jozsa Algorithm<DeutschJozsaAlgorithm_page>`
+* :ref:`Grover's Algorithm<GroversAlgorithm_page>`
+* :ref:`Phase Estimation<PhaseEstimation_page>`
+* :ref:`Quantum Parallelism<QuantumParallelism_page>`
+* :ref:`Quantum Teleportation<QuantumTeleportation_page>`
+* :ref:`Superdense Coding<SuperdenseCoding_page>`
 
 .. * :ref:`genindex`
 
