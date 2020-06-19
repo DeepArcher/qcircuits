@@ -20,16 +20,20 @@ Summary
   :start-after: inclusion-marker0-do-not-remove
   :end-before: inclusion-marker1-do-not-remove
 
-Documentation, tutorial, and examples
+Tutorials & Modules 
 =====================================
 
 * :ref:`Tutorial<tutorial_page>`
-* :ref:`Examples<examples_page>`
 * :ref:`State module<state_module>`
 * :ref:`Operators module<operators_module>`
 * :ref:`Density operator module<density_operator_module>`
 * :ref:`Tensors module<tensors_module>`
 * :ref:`Change log<change_log>`
+
+Examples
+========
+
+* :ref:`BellStates<BellStates_page>`
 
 .. * :ref:`genindex`
 
