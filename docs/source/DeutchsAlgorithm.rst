@@ -18,7 +18,7 @@ Passing through the oracle, this gives:
 
 :math:  |x⟩ \frac{1}{\sqrt{2}} (|0 ⊕ f(x)⟩ - |1 ⊕f(x)⟩)  
 
-(|x⟩ is in a superposition, for simplicities sake we will write it as |x⟩)
+(|x⟩ is in a superposition, for simplicity we will write it as |x⟩)
 
 If f(x) = 0, the system is now in the state:
 
