@@ -5,7 +5,7 @@ Deutsch's Algorithm is an algorithm for solving Deutsch's Problem, one of the si
 
 Let's say we have a function f(x), that takes possible inputs of 0 and 1, and gives possible outputs of 0 and 1. If f(0) = f(1), the function is constant, as the output is the same for both inputs. If f(0) ≠ f(1), the function is balanced.  
 
-In this algorithm, two qubits with initial values |xy⟩ = |01⟩ each pass through a Hadamard gate. Then (x,y) passes through an oracle gate that outputs (x, y ⊕ f(x)). Finally, (x) passes through a hadamard gate.
+In this algorithm, two qubits with initial values |xy⟩ = |01⟩ each pass through a Hadamard gate. Then, (x,y) passes through an oracle gate that outputs (x, y ⊕ f(x)). Finally, (x) passes through a hadamard gate.
 
 .. image:: images/deutsch.png
     :width: 100%
